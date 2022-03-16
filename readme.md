@@ -6,4 +6,6 @@ Please find more info about each part in the relevant Readme file ([frontend](fr
 
 ## Development
 
+Please user .env.template files in order to create .env.local configuration files in both backend and frotend root directories.
+
 When implementing a new feature or fixing a bug, please create a new pull request against `main` from a feature/bug branch and add `@vanessa-cooper` as reviewer.
